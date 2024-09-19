@@ -1,0 +1,26 @@
+body{
+    background-image:  url("./img/moorish-pattern_644416-582.jpg")
+}
+h1{
+    color: #00425e;
+    background-color: beige;
+    text-align: right;
+}
+ul{
+    background-color: #00425e;
+}
+a{
+    color: beige;
+}
+a:hover{
+    color: aliceblue;
+    background-color: black;
+}
+a:active{
+    color: black;
+    background-color: aliceblue;
+}
+img {
+    height:400px ;
+    width:400px ;
+}
